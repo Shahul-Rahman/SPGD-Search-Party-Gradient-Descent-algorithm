@@ -1,6 +1,10 @@
 SPGD: Search Party Gradient Descent algorithm, a Simple Gradient-Based Parallel Algorithm for Bound-Constrained Optimization
 
-Link: https://www.mdpi.com/2227-7390/10/5/800
+Read the paper for a clear understanding on how the algorithm works.
+Paper Link: https://www.mdpi.com/2227-7390/10/5/800
+
+If you find this algorithm useful, kindly considering citing my paper.
+Syed Shahul Hameed, A. S., & Rajagopalan, N. (2022). SPGD: Search Party Gradient Descent Algorithm, a Simple Gradient-Based Parallel Algorithm for Bound-Constrained Optimization. Mathematics, 10(5), 800.
 
 This is a preliminary code written for the SPGD paper.
 The code is not effecient, and has lots of rooms for improvement.
