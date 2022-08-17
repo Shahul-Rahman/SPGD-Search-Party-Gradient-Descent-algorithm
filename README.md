@@ -14,3 +14,5 @@ The benchmark functions are listed out at the top of the jupyter notebook. Any o
 be executed, and then the functions of the SPGD algorithm can be executed to see how it performs.
 
 By default 50 times SPGD is executed on the chosen benchmark functions, so that statistical results (like mean, best, worst) can be obtained. 
+
+The python code for the benchmark functions were taken from this repository: https://github.com/nathanrooy/landscapes/blob/master/landscapes/single_objective.py
